@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Early Education Business Consultants</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login_btn">Login</string>
+    <string name="login_remember">Remember me</string>
+    <string name="create_account_btn">Create Account</string>
+
+
+    <string name="step_one_title">Step 1!</string>
+    <string name="create_username">Enter username</string>
+    <string name="create_password">Enter password</string>
+    <string name="user_validation">Validate (Enter again)</string>
+
+
+    <string name="step_two_title">Step 2!</string>
+    <string name="comp_name_input">Company Name</string>
+    <string name="comp_owners_input">Owners</string>
+    <string name="comp_logo">Compnay Logo </string>
+    <string name="comp_location">Company Home Location</string>
+
+    <string name="step_three_title">Step 3!</string>
+    <string name="contact_info_title">Contact Information</string>
+    <string name="create_email">Enter email</string>
+    <string name="create_phone">Enter phone number</string>
+
+    <string name="nxt_btn">Next</string>
+    <string name="submit_btn">Submit</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
